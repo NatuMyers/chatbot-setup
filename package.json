@@ -1,4 +1,6 @@
+
 {
+"start": "node index.js",
   "name": "hypetroopbot",
   "version": "1.0.0",
   "description": "First Messengerbot for music collaboration",
